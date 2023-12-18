@@ -1,0 +1,44 @@
+.btn-login {
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+  margin-left:400px;
+  margin-top: 90px;
+}
+.SignIn{
+  text-decoration: none;
+  color: rgb(12, 12, 12);
+}
+.Login a {
+  text-decoration: none;
+  color: black;
+
+}
+.Login {
+  color: black;
+
+}
+.esw {
+padding: 10px 20px;
+background-color: #333;
+color: #fff;
+border: none;
+border-radius: 5px;
+font-size: 16px;
+cursor: pointer;
+justify-content: center !important;
+}
+
+
+
+.esw:hover {
+background-color: #555;
+padding: 10px 20px;
+background-color: #333;
+color: #fff;
+border: none;
+border-radius: 5px;
+font-size: 16px;
+cursor: pointer;
+}
+
